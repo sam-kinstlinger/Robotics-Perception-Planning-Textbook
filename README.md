@@ -1,9 +1,13 @@
 # Robotics: Perception & Planning
 <img width="1078" height="1652" alt="image" src="https://github.com/user-attachments/assets/1f670c48-1763-499a-aaae-488aea42b8a3" />
 
+
 [Click here to view or download the full PDF](https://github.com/sam-kinstlinger/Robotics-Perception-Planning-Textbook/blob/main/Robotics%20-%20Perception%20%26%20Planning.pdf)
+
 [Buy EBook on Amazon for $1.99 to support us]()
+
 [Buy Paperback]()
+
 [Buy Hardcover]()
 
 
