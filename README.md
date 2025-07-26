@@ -1,7 +1,6 @@
 # Robotics: Perception & Planning
 <img width="1078" height="1652" alt="image" src="https://github.com/user-attachments/assets/1f670c48-1763-499a-aaae-488aea42b8a3" />
 
-# Robotics: Perception and Planning
 
 ## 📘 Preface
 
