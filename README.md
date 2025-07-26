@@ -1,2 +1,2 @@
-# Robotics-Perception-Planning-Textbook
-Robotics: Perception &amp; Planning Textbook
+# RoboticsPerception-Planning-Textbook
+Robotics: Perception & Planning
