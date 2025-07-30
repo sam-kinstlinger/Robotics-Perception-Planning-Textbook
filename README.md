@@ -1,6 +1,7 @@
 # Robotics: Perception & Planning
 <img width="1078" height="1652" alt="image" src="https://github.com/user-attachments/assets/1f670c48-1763-499a-aaae-488aea42b8a3" />
 
+© 2025 Samuel Kinstlinger, Andrew Xu, Sameer Chawla, and Brian Fugh. All rights reserved.
 
 [Click here to view or download the full PDF](https://github.com/sam-kinstlinger/Robotics-Perception-Planning-Textbook/blob/main/Robotics%20-%20Perception%20%26%20Planning.pdf)
 
