@@ -3,7 +3,7 @@
 
 © 2025 Samuel Kinstlinger, Andrew Xu, Sameer Chawla, and Brian Fugh. All rights reserved.
 
-[Click here to view or download the full PDF](https://github.com/sam-kinstlinger/Robotics-Perception-Planning-Textbook/blob/main/Robotics_%20Perception%20%26%20Planning%20-%20Final%20Copy%20(4).pdf)
+[Click here to view or download the full PDF](https://github.com/sam-kinstlinger/Robotics-Perception-Planning-Textbook/blob/main/Robotics_%20Perception%20%26%20Planning%20-%20Final%20Copy%20(5).pdf)
 
 [Buy Paperback or Hardcover on Amazon, or EBook for $1.99 to Support the Authors](https://www.amazon.com/dp/B0FK4LLW8Z/ref=sr_1_1?crid=1FNGP465TW7TF&dib=eyJ2IjoiMSJ9.dHFvSIh2AXNGwvnk_qjJRy4wc4uu1bAgmn4Cqtv1ANXQ1HlEH_qzxJurLKOratjFxMCGiNtX-MXX_kclcvyo4p0d-MqSEBxwn7GRyxZCO-MFmEeaJ7Kiuwx96Y8MmJ9TfMbxj-1gyGu9nYPUXKXPKtzZWGu9-KFJz8A5RNW_MjdDdMLcyeJ7MpnWu3S4o1jxnraJ0k5VxQUZEP_Yj6fBtLe30_Vr37OzPlxLTuQog6g.8ZoDE4m2r2GnQg884-OO2vXM6R5SjyG6zQaOo2XUhq8&dib_tag=se&keywords=robotics%3A+perception+and+planning&qid=1753760885&sprefix=robotics+perception+and+planning%2Caps%2C225&sr=8-1)
 
