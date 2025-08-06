@@ -31,7 +31,7 @@ Contact for Questions or Comments: sammypaulk@icloud.com
 
 ## 📘 Table of Contents
 
-### Preface  
+[### Preface  
 - Preface – p.6  
 - About the Authors – p.7
 
@@ -152,8 +152,6 @@ Contact for Questions or Comments: sammypaulk@icloud.com
 - 11.4 Multi-Robot Communication – p.384  
   - 11.4.1 Introduction to Multi-Robot Communication – p.384  
   - 11.4.2 Direct vs. Indirect Communication – p.385  
-
----
 
 ### Conclusion – p.388  
 ### Glossary – p.389  
