@@ -28,114 +28,115 @@ Each author brings research and industry experience spanning both perception and
 Contact for Questions or Comments: sammypaulk@icloud.com
 
 ---
-
 # Table of Contents
 
-- [Preface](#) ................................................... 6  
-- [About the Authors](#) ......................................... 7  
+Preface                                                   6  
+About the Authors                                          7  
 
-## Section I: Introduction to Cognitive Robotics
-- [Chapter 1: Introduction to Perception & Planning](#) .......... 8  
-- [Chapter 2: Machine Learning](#) ............................... 13  
-  - 2.1 - Introduction to Machine Learning ....................... 13  
-  - 2.2 - Optimization ........................................... 17  
-    - 2.2.1 - Iterative Optimization ............................. 17  
-    - 2.2.2 - Gradient Descent ................................... 20  
-  - 2.3 - Neural Networks ........................................ 23  
-    - 2.3.1 - Piecewise Universal Function Approximation ......... 23  
-    - 2.3.2 - Piecewise Linear Universal Function Approximation .. 25  
-    - 2.3.3 - Shallow Neural Networks ............................ 30  
-    - 2.3.4 - Deep Neural Networks ............................... 40  
-  - 2.4 - Classification ......................................... 47  
+Section I: Introduction to Cognitive Robotics  
+Chapter 1: Introduction to Perception & Planning           8  
+Chapter 2: Machine Learning                               13  
+  2.1 - Introduction to Machine Learning                  13  
+  2.2 - Optimization                                      17  
+    2.2.1 - Iterative Optimization                        17  
+    2.2.2 - Gradient Descent                              20  
+  2.3 - Neural Networks                                   23  
+    2.3.1 - Piecewise Universal Function Approximation    23  
+    2.3.2 - Piecewise Linear Universal Function Approx.   25  
+    2.3.3 - Shallow Neural Networks                       30  
+    2.3.4 - Deep Neural Networks                          40  
+  2.4 - Classification                                    47  
 
-## Section II: Planning
-- [Chapter 3: Path Planning and Mapping](#) ...................... 55  
-  - 3.1 - Introduction to Path Planning .......................... 55  
-  - 3.2 - Introduction to Machine Planning ....................... 58  
-  - 3.3 - Global Path Planning ................................... 63  
-  - 3.4 - Mapping ................................................ 66  
-    - 3.4.1 - Map Creation ....................................... 66  
-    - 3.4.2 - Grid Mapping ....................................... 68  
-  - 3.5 - Graph-Based Planning Algorithms ........................ 73  
-    - 3.5.1 - Introduction to Graph Based Path Planning .......... 73  
-    - 3.5.2 - Single vs. Multi-Query Path Planning ............... 78  
-    - 3.5.3 - Cell Decomposition ................................. 81  
-    - 3.5.4 - Probabilistic Roadmaps (PRM) ....................... 83  
-    - 3.5.5 - Dijkstra’s Algorithm ............................... 88  
-    - 3.5.6 - A* Algorithm ....................................... 94  
-    - 3.5.7 - D* Algorithm ....................................... 95  
-    - 3.5.8 - Rapidly Exploring Random Trees ..................... 98  
-  - 3.6 - Local Path Planning ................................... 104  
-    - 3.6.1 - Introduction to Local Path Planning ............... 104  
-    - 3.6.2 - Artificial Potential Field ........................ 106  
+Section II: Planning  
+Chapter 3: Path Planning and Mapping                      55  
+  3.1 - Introduction to Path Planning                     55  
+  3.2 - Introduction to Machine Planning                  58  
+  3.3 - Global Path Planning                              63  
+  3.4 - Mapping                                           66  
+    3.4.1 - Map Creation                                  66  
+    3.4.2 - Grid Mapping                                  68  
+  3.5 - Graph-Based Planning Algorithms                   73  
+    3.5.1 - Intro to Graph-Based Path Planning            73  
+    3.5.2 - Single vs. Multi-Query Path Planning          78  
+    3.5.3 - Cell Decomposition                            81  
+    3.5.4 - Probabilistic Roadmaps (PRM)                  83  
+    3.5.5 - Dijkstra’s Algorithm                          88  
+    3.5.6 - A* Algorithm                                  94  
+    3.5.7 - D* Algorithm                                  95  
+    3.5.8 - Rapidly Exploring Random Trees                98  
+  3.6 - Local Path Planning                              104  
+    3.6.1 - Intro to Local Path Planning                 104  
+    3.6.2 - Artificial Potential Field                   106  
 
-- [Chapter 4: Reinforcement Learning](#) ........................ 114  
-  - 4.1 - Introduction to Reinforcement Learning ................ 114  
-  - 4.2 - Reward Functions ...................................... 116  
-    - 4.2.1 - Bellman Equations ................................. 116  
-    - 4.2.2 - Reward Design ..................................... 117  
-  - 4.3 - Exploration vs. Exploitation .......................... 119  
-  - 4.4 - Q-Learning ............................................ 124  
-  - 4.5 - Deep Q-Learning ....................................... 128  
-  - 4.6 - Deep Deterministic Policy Gradient (DDPG) ............. 132  
+Chapter 4: Reinforcement Learning                        114  
+  4.1 - Introduction to Reinforcement Learning           114  
+  4.2 - Reward Functions                                 116  
+    4.2.1 - Bellman Equations                            116  
+    4.2.2 - Reward Design                                117  
+  4.3 - Exploration vs. Exploitation                     119  
+  4.4 - Q-Learning                                       124  
+  4.5 - Deep Q-Learning                                  128  
+  4.6 - Deep Deterministic Policy Gradient (DDPG)        132  
 
-- [Chapter 5: Task Execution](#) ................................ 138  
-  - 5.1 - Reactive Control ...................................... 138  
-  - 5.2 - Finite State Machines (FSM) ........................... 138  
-  - 5.3 - Hierarchical Finite State Machines (HFSM) ............. 140  
+Chapter 5: Task Execution                                138  
+  5.1 - Reactive Control                                 138  
+  5.2 - Finite State Machines (FSM)                      138  
+  5.3 - Hierarchical FSM                                 140  
 
-## Section III: Localization
-- [Chapter 6: Sensor Fusion](#) ................................. 143  
-  - 6.1 - Sensor Values as a Probability Distribution ........... 143  
-  - 6.2 - Sensor Calibration .................................... 145  
-  - 6.3 - Introduction to Sensor Fusion ......................... 148  
-  - 6.4 - Recursive Estimation .................................. 151  
-  - 6.5 - State Space Modeling .................................. 152  
-  - 6.6 - Particle Filter ....................................... 153  
-  - 6.7 - Kalman Filtering ...................................... 163  
-    - 6.7.1 - Kalman Filter (KF) ................................ 163  
-    - 6.7.2 - Unscented Kalman Filter (UKF) ..................... 174  
+Section III: Localization  
+Chapter 6: Sensor Fusion                                 143  
+  6.1 - Sensor Values as a PDF                           143  
+  6.2 - Sensor Calibration                               145  
+  6.3 - Introduction to Sensor Fusion                    148  
+  6.4 - Recursive Estimation                             151  
+  6.5 - State Space Modeling                             152  
+  6.6 - Particle Filter                                  153  
+  6.7 - Kalman Filtering                                 163  
+    6.7.1 - Kalman Filter (KF)                           163  
+    6.7.2 - Unscented Kalman Filter (UKF)                174  
 
-- [Chapter 7: Simultaneous Localization & Mapping (SLAM)](#) .... 180  
-  - 7.1 - Introduction to SLAM .................................. 180  
-  - 7.2 - Iterative Closest Point (ICP) ......................... 182  
+Chapter 7: SLAM                                          180  
+  7.1 - Introduction to SLAM                             180  
+  7.2 - Iterative Closest Point (ICP)                    182  
 
-## Section IV: Computer Vision
-- [Chapter 8: Image Processing](#) .............................. 187  
-  - 8.1 - Introduction to Computer Vision ....................... 187  
-  - 8.2 - Cameras ............................................... 189  
-  - 8.3 - Convolutional Neural Networks ......................... 194  
-    - 8.3.1 - Introduction to Image Classification .............. 194  
-    - 8.3.2 - Convolution Layers ................................ 195  
-    - 8.3.3 - Pooling ........................................... 201  
+Section IV: Computer Vision  
+Chapter 8: Image Processing                              187  
+  8.1 - Intro to Computer Vision                         187  
+  8.2 - Cameras                                          189  
+  8.3 - Convolutional Neural Networks                    194  
+    8.3.1 - Intro to Image Classification                194  
+    8.3.2 - Convolution Layers                           195  
+    8.3.3 - Pooling                                      201  
 
-- [Chapter 9: Object Detection](#) .............................. 204  
-  - 9.1 - Introduction to Object Detection ...................... 204  
-  - 9.2 - Sliding Window Approach ............................... 205  
-  - 9.3 - Evaluating Object Detection Output .................... 211  
-  - 9.4 - YOLO .................................................. 217  
+Chapter 9: Object Detection                              204  
+  9.1 - Introduction to Object Detection                 204  
+  9.2 - Sliding Window Approach                          205  
+  9.3 - Evaluating Object Detection Output               211  
+  9.4 - YOLO                                             217  
 
-- [Chapter 10: 3D Vision](#) .................................... 225  
-  - 10.1 - Introduction to Depth Perception ..................... 225  
-  - 10.2 - Camera Calibration ................................... 228  
-  - 10.3 - Stereo Vision ........................................ 234  
-    - 10.3.1 - Horizontal Stereo ................................ 234  
-    - 10.3.2 - Block Matching ................................... 238  
-    - 10.3.3 - Semi-Global Matching ............................. 239  
-    - 10.3.4 - ML Approaches .................................... 244  
+Chapter 10: 3D Vision                                    225  
+  10.1 - Introduction to Depth Perception                225  
+  10.2 - Camera Calibration                              228  
+  10.3 - Stereo Vision                                   234  
+    10.3.1 - Horizontal Stereo                           234  
+    10.3.2 - Block Matching                              238  
+    10.3.3 - Semi-Global Matching                        239  
+    10.3.4 - ML Approaches                               244  
 
-## Section V: Multiple Robots
-- [Chapter 11: Multi-Robot Systems](#) .......................... 246  
-  - 11.1 - Introduction to Multi-Robot Systems .................. 246  
-  - 11.2 - Multi-Robot Coordination ............................. 247  
-    - 11.2.1 - Introduction to Multi-Robot Coordination ......... 247  
-    - 11.2.2 - Decentralized Control ............................ 247  
-    - 11.2.3 - Centralized Control .............................. 248  
-  - 11.3 - Task Allocation ...................................... 250  
-  - 11.4 - Multi-Robot Communication ............................ 256  
-    - 11.4.1 - Introduction to Multi-Robot Communication ........ 256  
-    - 11.4.2 - Direct vs. Indirect Communication ................ 257  
+Section V: Multiple Robots  
+Chapter 11: Multi-Robot Systems                          246  
+  11.1 - Introduction to Multi-Robot Systems             246  
+  11.2 - Multi-Robot Coordination                        247  
+    11.2.1 - Intro to Multi-Robot Coordination           247  
+    11.2.2 - Decentralized Control                       247  
+    11.2.3 - Centralized Control                         248  
+  11.3 - Task Allocation                                 250  
+  11.4 - Multi-Robot Communication                       256  
+    11.4.1 - Intro to Multi-Robot Communication          256  
+    11.4.2 - Direct vs. Indirect Communication           257  
 
-- [Conclusion](#) .............................................. 260  
-- [Glossary](#) ................................................ 261  
-- [References](#) .............................................. 289  
+Conclusion                                               260  
+Glossary                                                 261  
+References                                               289  
+
+---
